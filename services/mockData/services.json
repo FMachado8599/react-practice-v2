@@ -1,0 +1,51 @@
+[
+  {
+    "id": "service-1",
+    "name": "Corte básico",
+    "duration": 30,
+    "price": 500,
+    "category": "corte"
+  },
+  {
+    "id": "service-2",
+    "name": "Corte premium",
+    "duration": 45,
+    "price": 800,
+    "category": "corte"
+  },
+  {
+    "id": "service-3",
+    "name": "Coloración",
+    "duration": 60,
+    "price": 1200,
+    "category": "color"
+  },
+  {
+    "id": "service-4",
+    "name": "Tratamiento capilar",
+    "duration": 45,
+    "price": 900,
+    "category": "tratamiento"
+  },
+  {
+    "id": "service-5",
+    "name": "Depilación",
+    "duration": 30,
+    "price": 400,
+    "category": "depilacion"
+  },
+  {
+    "id": "service-6",
+    "name": "Balayage",
+    "duration": 90,
+    "price": 1500,
+    "category": "color"
+  },
+  {
+    "id": "service-7",
+    "name": "Barba",
+    "duration": 20,
+    "price": 300,
+    "category": "corte"
+  }
+]

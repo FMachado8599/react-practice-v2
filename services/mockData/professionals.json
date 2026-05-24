@@ -1,0 +1,157 @@
+[
+  {
+    "id": "prof-1",
+    "name": "María González",
+    "specialty": ["corte", "color"],
+    "photo": "👩‍🦰",
+    "rating": 4.8,
+    "availability": [
+      {
+        "id": "slot-1",
+        "professional": "prof-1",
+        "dayOfWeek": 1,
+        "startTime": "09:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      },
+      {
+        "id": "slot-2",
+        "professional": "prof-1",
+        "dayOfWeek": 2,
+        "startTime": "09:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      },
+      {
+        "id": "slot-3",
+        "professional": "prof-1",
+        "dayOfWeek": 3,
+        "startTime": "10:00",
+        "endTime": "19:00",
+        "isAvailable": true
+      },
+      {
+        "id": "slot-4",
+        "professional": "prof-1",
+        "dayOfWeek": 4,
+        "startTime": "09:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      },
+      {
+        "id": "slot-5",
+        "professional": "prof-1",
+        "dayOfWeek": 5,
+        "startTime": "09:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": "prof-2",
+    "name": "Ana Rodríguez",
+    "specialty": ["tratamiento", "depilacion"],
+    "photo": "👩‍🦱",
+    "rating": 4.9,
+    "availability": [
+      {
+        "id": "slot-6",
+        "professional": "prof-2",
+        "dayOfWeek": 1,
+        "startTime": "10:00",
+        "endTime": "19:00",
+        "isAvailable": true
+      },
+      {
+        "id": "slot-7",
+        "professional": "prof-2",
+        "dayOfWeek": 2,
+        "startTime": "10:00",
+        "endTime": "19:00",
+        "isAvailable": true
+      },
+      {
+        "id": "slot-8",
+        "professional": "prof-2",
+        "dayOfWeek": 3,
+        "startTime": "09:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      },
+      {
+        "id": "slot-9",
+        "professional": "prof-2",
+        "dayOfWeek": 4,
+        "startTime": "10:00",
+        "endTime": "19:00",
+        "isAvailable": true
+      },
+      {
+        "id": "slot-10",
+        "professional": "prof-2",
+        "dayOfWeek": 5,
+        "startTime": "10:00",
+        "endTime": "19:00",
+        "isAvailable": true
+      },
+      {
+        "id": "slot-11",
+        "professional": "prof-2",
+        "dayOfWeek": 6,
+        "startTime": "09:00",
+        "endTime": "17:00",
+        "isAvailable": true
+      }
+    ]
+  },
+  {
+    "id": "prof-3",
+    "name": "Sofia Mendoza",
+    "specialty": ["corte", "tratamiento"],
+    "photo": "👩‍🦳",
+    "rating": 4.7,
+    "availability": [
+      {
+        "id": "slot-12",
+        "professional": "prof-3",
+        "dayOfWeek": 1,
+        "startTime": "09:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      },
+      {
+        "id": "slot-13",
+        "professional": "prof-3",
+        "dayOfWeek": 2,
+        "startTime": "09:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      },
+      {
+        "id": "slot-14",
+        "professional": "prof-3",
+        "dayOfWeek": 3,
+        "startTime": "14:00",
+        "endTime": "20:00",
+        "isAvailable": true
+      },
+      {
+        "id": "slot-15",
+        "professional": "prof-3",
+        "dayOfWeek": 4,
+        "startTime": "09:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      },
+      {
+        "id": "slot-16",
+        "professional": "prof-3",
+        "dayOfWeek": 5,
+        "startTime": "10:00",
+        "endTime": "19:00",
+        "isAvailable": true
+      }
+    ]
+  }
+]

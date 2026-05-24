@@ -1,0 +1,122 @@
+[
+  {
+    "id": "booking-1",
+    "clientName": "Juan Pérez",
+    "clientPhone": "+598912345678",
+    "professional": {
+      "id": "prof-1",
+      "name": "María González",
+      "specialty": ["corte", "color"],
+      "photo": "👩‍🦰",
+      "rating": 4.8,
+      "availability": []
+    },
+    "service": {
+      "id": "service-1",
+      "name": "Corte básico",
+      "duration": 30,
+      "price": 500,
+      "category": "corte"
+    },
+    "dateTime": "2026-05-28T10:00:00Z",
+    "status": "confirmed",
+    "notes": "Corte clásico, mantener largo",
+    "price": 500
+  },
+  {
+    "id": "booking-2",
+    "clientName": "Laura Martínez",
+    "clientPhone": "+598987654321",
+    "professional": {
+      "id": "prof-1",
+      "name": "María González",
+      "specialty": ["corte", "color"],
+      "photo": "👩‍🦰",
+      "rating": 4.8,
+      "availability": []
+    },
+    "service": {
+      "id": "service-3",
+      "name": "Coloración",
+      "duration": 60,
+      "price": 1200,
+      "category": "color"
+    },
+    "dateTime": "2026-05-29T14:30:00Z",
+    "status": "pending",
+    "notes": "Color castaño oscuro",
+    "price": 1200
+  },
+  {
+    "id": "booking-3",
+    "clientName": "Carlos López",
+    "clientPhone": "+598955555555",
+    "professional": {
+      "id": "prof-2",
+      "name": "Ana Rodríguez",
+      "specialty": ["tratamiento", "depilacion"],
+      "photo": "👩‍🦱",
+      "rating": 4.9,
+      "availability": []
+    },
+    "service": {
+      "id": "service-4",
+      "name": "Tratamiento capilar",
+      "duration": 45,
+      "price": 900,
+      "category": "tratamiento"
+    },
+    "dateTime": "2026-05-30T11:00:00Z",
+    "status": "confirmed",
+    "notes": "Cabello seco, necesita hidratación profunda",
+    "price": 900
+  },
+  {
+    "id": "booking-4",
+    "clientName": "Sofia García",
+    "clientPhone": "+598966666666",
+    "professional": {
+      "id": "prof-2",
+      "name": "Ana Rodríguez",
+      "specialty": ["tratamiento", "depilacion"],
+      "photo": "👩‍🦱",
+      "rating": 4.9,
+      "availability": []
+    },
+    "service": {
+      "id": "service-5",
+      "name": "Depilación",
+      "duration": 30,
+      "price": 400,
+      "category": "depilacion"
+    },
+    "dateTime": "2026-05-27T15:00:00Z",
+    "status": "completed",
+    "notes": "Depilación de brazos",
+    "price": 400
+  },
+  {
+    "id": "booking-5",
+    "clientName": "Marco Fernández",
+    "clientPhone": "+598977777777",
+    "professional": {
+      "id": "prof-3",
+      "name": "Sofia Mendoza",
+      "specialty": ["corte", "tratamiento"],
+      "photo": "👩‍🦳",
+      "rating": 4.7,
+      "availability": []
+    },
+    "service": {
+      "id": "service-2",
+      "name": "Corte premium",
+      "duration": 45,
+      "price": 800,
+      "category": "corte"
+    },
+    "dateTime": "2026-05-31T09:30:00Z",
+    "status": "pending",
+    "notes": "Fade, dejar más largo en la parte superior",
+    "price": 800
+  }
+]
