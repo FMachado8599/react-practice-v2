@@ -1,51 +1,72 @@
 [
   {
-    "id": "service-1",
+    "id": "001",
     "name": "Corte básico",
     "duration": 30,
     "price": 500,
-    "category": "corte"
+    "isActive": true
   },
   {
-    "id": "service-2",
+    "id": "002",
     "name": "Corte premium",
-    "duration": 45,
+    "duration": 60,
     "price": 800,
-    "category": "corte"
+    "isActive": true
   },
   {
-    "id": "service-3",
+    "id": "003",
     "name": "Coloración",
     "duration": 60,
     "price": 1200,
-    "category": "color"
+    "isActive": true
   },
   {
-    "id": "service-4",
+    "id": "004",
     "name": "Tratamiento capilar",
-    "duration": 45,
+    "duration": 60,
     "price": 900,
-    "category": "tratamiento"
+    "isActive": true
   },
   {
-    "id": "service-5",
+    "id": "005",
     "name": "Depilación",
     "duration": 30,
     "price": 400,
-    "category": "depilacion"
+    "isActive": true
   },
   {
-    "id": "service-6",
+    "id": "006",
     "name": "Balayage",
     "duration": 90,
     "price": 1500,
-    "category": "color"
+    "isActive": true
   },
   {
-    "id": "service-7",
-    "name": "Barba",
-    "duration": 20,
+    "id": "007",
+    "name": "Manicura",
+    "duration": 30,
     "price": 300,
-    "category": "corte"
+    "isActive": true
+  },
+  {
+    "id": "008",
+    "name": "Pedicura",
+    "duration": 60,
+    "price": 500,
+    "isActive": true
+  },
+  {
+    "id": "009",
+    "name": "Maquillaje",
+    "duration": 60,
+    "price": 1000,
+    "isActive": true
+  },
+  {
+    "id": "010",
+    "name": "Extensiones de pestañas",
+    "duration": 90,
+    "price": 2000,
+    "isActive": true
   }
 ]

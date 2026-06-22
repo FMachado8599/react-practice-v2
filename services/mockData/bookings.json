@@ -3,120 +3,50 @@
     "id": "booking-1",
     "clientName": "Juan Pérez",
     "clientPhone": "+598912345678",
-    "professional": {
-      "id": "prof-1",
-      "name": "María González",
-      "specialty": ["corte", "color"],
-      "photo": "👩‍🦰",
-      "rating": 4.8,
-      "availability": []
-    },
-    "service": {
-      "id": "service-1",
-      "name": "Corte básico",
-      "duration": 30,
-      "price": 500,
-      "category": "corte"
-    },
+    "professionalId": "prof-1",
+    "serviceId": "001",
     "dateTime": "2026-05-28T10:00:00Z",
     "status": "confirmed",
-    "notes": "Corte clásico, mantener largo",
-    "price": 500
+    "notes": "Corte clásico, mantener largo"
   },
   {
     "id": "booking-2",
     "clientName": "Laura Martínez",
     "clientPhone": "+598987654321",
-    "professional": {
-      "id": "prof-1",
-      "name": "María González",
-      "specialty": ["corte", "color"],
-      "photo": "👩‍🦰",
-      "rating": 4.8,
-      "availability": []
-    },
-    "service": {
-      "id": "service-3",
-      "name": "Coloración",
-      "duration": 60,
-      "price": 1200,
-      "category": "color"
-    },
+    "professionalId": "prof-1",
+    "serviceId": "003",
     "dateTime": "2026-05-29T14:30:00Z",
     "status": "pending",
-    "notes": "Color castaño oscuro",
-    "price": 1200
+    "notes": "Color castaño oscuro"
   },
   {
     "id": "booking-3",
     "clientName": "Carlos López",
     "clientPhone": "+598955555555",
-    "professional": {
-      "id": "prof-2",
-      "name": "Ana Rodríguez",
-      "specialty": ["tratamiento", "depilacion"],
-      "photo": "👩‍🦱",
-      "rating": 4.9,
-      "availability": []
-    },
-    "service": {
-      "id": "service-4",
-      "name": "Tratamiento capilar",
-      "duration": 45,
-      "price": 900,
-      "category": "tratamiento"
-    },
+    "professionalId": "prof-2",
+    "serviceId": "004",
     "dateTime": "2026-05-30T11:00:00Z",
     "status": "confirmed",
-    "notes": "Cabello seco, necesita hidratación profunda",
-    "price": 900
+    "notes": "Cabello seco, necesita hidratación profunda"
   },
   {
     "id": "booking-4",
     "clientName": "Sofia García",
     "clientPhone": "+598966666666",
-    "professional": {
-      "id": "prof-2",
-      "name": "Ana Rodríguez",
-      "specialty": ["tratamiento", "depilacion"],
-      "photo": "👩‍🦱",
-      "rating": 4.9,
-      "availability": []
-    },
-    "service": {
-      "id": "service-5",
-      "name": "Depilación",
-      "duration": 30,
-      "price": 400,
-      "category": "depilacion"
-    },
+    "professionalId": "prof-2",
+    "serviceId": "005",
     "dateTime": "2026-05-27T15:00:00Z",
     "status": "completed",
-    "notes": "Depilación de brazos",
-    "price": 400
+    "notes": "Depilación de brazos"
   },
   {
     "id": "booking-5",
     "clientName": "Marco Fernández",
     "clientPhone": "+598977777777",
-    "professional": {
-      "id": "prof-3",
-      "name": "Sofia Mendoza",
-      "specialty": ["corte", "tratamiento"],
-      "photo": "👩‍🦳",
-      "rating": 4.7,
-      "availability": []
-    },
-    "service": {
-      "id": "service-2",
-      "name": "Corte premium",
-      "duration": 45,
-      "price": 800,
-      "category": "corte"
-    },
+    "professionalId": "prof-3",
+    "serviceId": "002",
     "dateTime": "2026-05-31T09:30:00Z",
     "status": "pending",
-    "notes": "Fade, dejar más largo en la parte superior",
-    "price": 800
+    "notes": "Fade, dejar más largo en la parte superior"
   }
 ]

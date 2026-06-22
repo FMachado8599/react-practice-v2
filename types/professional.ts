@@ -7,4 +7,5 @@ export interface Professional {
   photo?: string;
   rating: number;
   availability: TimeSlot[];
+  isActive: boolean;
 }

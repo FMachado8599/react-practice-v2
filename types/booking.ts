@@ -5,19 +5,18 @@ export interface Booking {
   id: string;
   clientName: string;
   clientPhone: string;
-  professional: Professional;
-  service: Service;
+  professionalId: string;
+  serviceId: string;
   dateTime: Date;
   status: 'pending' | 'confirmed' | 'completed' | 'cancelled';
-  notes: string;
-  price: number;
+  notes?: string;
 }
 
 export interface TimeSlot {
   id: string;
-  professional: string; // ID del profesional
+  professionalId: string; // ID del profesional
   startTime: string; // "09:00"
   endTime: string; // "18:00"
-  dayOfWeek: number; // 0-6 (lunes a domingo)
+  dayOfWeek: 0 | 1 | 2 | 3 | 4 | 5; // 0-5 (lunes a sábado)
   isAvailable: boolean;
 }
