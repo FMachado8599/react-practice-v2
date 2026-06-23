@@ -1,6 +1,3 @@
-import { Professional } from './professional';
-import { Service } from './service';
-
 export interface Booking {
   id: string;
   clientName: string;
